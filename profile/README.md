@@ -18,8 +18,6 @@ Welcome to LAPLUS, **L**ab for **A**dvanced **P**erception, **L**inguistic **U**
 
 We are dedicated to pioneering research in natural language understanding, speech processing, and advanced perception. Our mission is to push the boundaries of AI and enable systems to understand and process complex human information.
 
-**Description (Chinese):**
-
 欢迎来到LAPLUS实验室。我们致力于自然语言理解和语音处理和高级感知方面进行开创性研究。加入我们，一起找到并推动人工智能的边界。
 
 
