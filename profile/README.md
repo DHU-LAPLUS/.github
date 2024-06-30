@@ -1,3 +1,5 @@
+![c2101709e42181b0b290f96502fd45b](https://github.com/DHU-LAPLUS/.github/assets/40137928/3a0823f9-dc9c-4550-8cf1-6db5d86ca502)
+
 ## Hi there 👋 We are **LAPLUS**
 
 <!--
